@@ -9,7 +9,7 @@
 
 - :office: &nbsp;I'm currently working at **SearchKings**
 - :seedling: &nbsp;I’m currently learning **Angular**
-- :writing_hand: &nbsp;I regulary write article on my **[blog]** that's coming soon!
+- :writing_hand: &nbsp;I regularly write article on my **[blog]** that's coming soon!
 - :speech_balloon: &nbsp;I like to talk about **JavaScript**, **Crypto** and **Soccer** 
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
