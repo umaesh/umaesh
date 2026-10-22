@@ -1,99 +1,31 @@
+<p align="center">
+  <img src="./assets/terminal.svg" width="760" alt="Terminal typing: whoami, Umaesh Sundaralingam, Software Engineer at SearchKings. Stack: Angular, TypeScript, Node.js, Google Cloud, AI agents." />
+</p>
 
-<h1 align="left" id="umaesh-title">:wave: Hello there! I'm Umaesh Sundaralingam</h1>
-<h3 align="left">I am a Software Engineer at SearchKings </h3>
+```ts
+const umaesh = {
+  role: 'Software Engineer @ SearchKings',
+  location: 'Toronto, Canada',
+  building: [
+    'Angular apps the whole team works in every day',
+    'Node.js workers on Cloud Run, queued with BullMQ + Redis',
+    'AI agents that audit and manage Google Ads accounts',
+  ],
+  monorepo: 'Nx + pnpm',
+  offline: ['crypto', 'soccer'],
+  askMeAbout: 'anything JavaScript, happy to help',
+} as const;
+```
 
+### Stack
 
-<a href="#umaesh-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=umaesh&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Umaesh Sundaralingam" align="right" />
-</a>
+| | |
+| --- | --- |
+| **Frontend** | <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/angular/angular-original.svg" alt="Angular" title="Angular" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/rxjs/rxjs-original.svg" alt="RxJS" title="RxJS" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/materialui/materialui-original.svg" alt="Material UI" title="Material UI" width="32" height="32" /> |
+| **Backend** | <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/express/express-original.svg" alt="Express" title="Express" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="32" height="32" /> |
+| **Cloud** | <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="32" height="32" /> |
+| **Tooling** | <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/pnpm/pnpm-original.svg" alt="pnpm" title="pnpm" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/git/git-original.svg" alt="Git" title="Git" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/vitest/vitest-original.svg" alt="Vitest" title="Vitest" width="32" height="32" />&nbsp; <img src="https://cdn.jsdelivr.net/npm/devicon@2.16.0/icons/jest/jest-plain.svg" alt="Jest" title="Jest" width="32" height="32" /> |
 
-- :office: &nbsp;I'm currently working at **SearchKings**
-- :seedling: &nbsp;I’m currently learning **Angular**
-- :writing_hand: &nbsp;I regularly write article on my **[blog]** that's coming soon!
-- :speech_balloon: &nbsp;I like to talk about **JavaScript**, **Crypto** and **Soccer** 
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :camera: &nbsp;Let's talk more on **[Instagram]**
+### Connect
 
-<br>
-
-<h2 align="left" id="umaesh-tech">Favorite Tech</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="#umaesh-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#umaesh-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#umaesh-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#umaesh-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="Node JS" />
-      </a>
-      <br>Node JS
-    </td>
-        <td align="center" width="96">
-      <a href="#umaesh-tech">
-        <img src="https://4.bp.blogspot.com/-rtNRVM3aIvI/XJX_U07Z-II/AAAAAAAAJXY/YpdOo490FTgdKOxM4qDG-2-EzcNFAWkKACK4BGAYYCw/s1600/logo%2Bfirebase%2Bicon.png" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-  </tr>
-  <tr>
-    <td align="center"  width="96">
-      <a href="#umaesh-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/480px-WordPress_blue_logo.svg.png" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <a href="#umaesh-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#umaesh-tech">
-        <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" width="48" height="48" alt="TailWind" />
-      </a>
-      <br>TailWind
-    </td>
-    <td align="center" width="96">
-      <a href="#umaesh-tech">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
-      </a>
-      <br>Material ui
-             <td align="center" width="96"> 
-      <a href="#umaesh-tech" >
-        <img src="https://brandeps.com/logo-download/G/Google-Cloud-logo-vector-01.svg" width="48" height="48" alt="Google Cloud" />
-      </a>
-      <br>G Cloud
-    </td>
-  </tr>
-
-    
-    
-</table>
-
-[linkedin]: https://www.linkedin.com/in/umaesh-sundaralingam-86b797ab/ "LinkedIn"
-[instagram]: https://www.instagram.com/codeexplorer.umi/?hl=en "Instagram"
-
-
-
-[![Umaesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=umaesh&theme=react-dark)](https://github.com/umaesh)
+<kbd>[LinkedIn](https://www.linkedin.com/in/umaesh-sundaralingam-86b797ab/)</kbd> &nbsp; <kbd>[Instagram](https://www.instagram.com/codeexplorer.umi/)</kbd> &nbsp; <kbd>[SearchKings](https://searchkings.ca)</kbd>
