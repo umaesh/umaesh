@@ -60,13 +60,6 @@
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 </p>
 
-<h3>My streak</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=umaesh&theme=github-dark-blue&hide_border=true" />
-  <img alt="GitHub contribution streak for umaesh" src="https://streak-stats.demolab.com?user=umaesh&theme=default&hide_border=true" />
-</picture>
-
 <h3>Where to find me</h3>
 
 <p>
